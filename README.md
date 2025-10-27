@@ -13,7 +13,7 @@ The system demonstrates the power of decentralized AI agents working together to
 
 ### Agent 1: Health Guardian (User Interface)
 - **Name:** `health_guardian`
-- **Address:** `agent1qg4n6jwk986w6jzqld2ft7awm6c695dn995svevet6rc6fjt2tgcj38ut6c`
+- **Address:** `agent1qvuqglhceljunqfag3p2hwen254k9n8hrcyuvzwf7dqa3qutdcrvwhghuq3`
 - **Port:** 8000
 - **Role:** Primary interface for user interaction via ASI:One chat protocol
 - **Features:**
@@ -24,7 +24,7 @@ The system demonstrates the power of decentralized AI agents working together to
 
 ### Agent 2: Medical Brain (Knowledge Engine)
 - **Name:** `medical_brain`
-- **Address:** `agent1qv9r6hdpszufw00l78567gm8uuq68pjv4tx6clw98f9uvfckvya8gd3qzz8`
+- **Address:** `agent1qt6w8382749x59x87q84t25ajf0nadfsc4ghct7dlzwqc2e9jc446zxz6f7`
 - **Port:** 8001
 - **Role:** Medical knowledge reasoning and analysis
 - **Features:**
@@ -109,7 +109,7 @@ python medical_brain.py
 You should see:
 ```
 Medical Brain Agent Starting...
-Agent Address: agent1qv9r6hdpszufw00l78567gm8uuq68pjv4tx6clw98f9uvfckvya8gd3qzz8
+Agent Address:agent1qt6w8382749x59x87q84t25ajf0nadfsc4ghct7dlzwqc2e9jc446zxz6f7 
 ```
 
 ### Start Health Guardian Agent (Terminal 2)
@@ -121,7 +121,7 @@ python health_guardian.py
 You should see:
 ```
 Health Guardian Agent Starting...
-Agent Address: agent1qg4n6jwk986w6jzqld2ft7awm6c695dn995svevet6rc6fjt2tgcj38ut6c
+Agent Address:agent1qvuqglhceljunqfag3p2hwen254k9n8hrcyuvzwf7dqa3qutdcrvwhghuq3
 ```
 
 Both agents must be running simultaneously for full functionality.
