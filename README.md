@@ -246,7 +246,7 @@ Warning: Seek immediate care if headache is sudden and severe...
 **User:** "I have a fever and cough"
 
 **Response:**
-- Analysis of both fever AND cough
+- Analysis of both fever and cough
 - Conditions like Common cold, Flu, COVID-19
 - Comprehensive treatment for both symptoms
 - Combined warning signs
@@ -306,7 +306,7 @@ asi-health-guardian-agent/
 
 ## Demo Video
 
-**Watch the full demonstration:** [Health Guardian AI Demo](YOUR_VIDEO_LINK_HERE)
+**Watch the full demonstration:** [Health Guardian AI Demo](https://www.loom.com/share/2a0943052fdf4fe28c88982d8ac97efe)
 
 **Demo Highlights:**
 - Agent deployment on Agentverse
@@ -357,9 +357,9 @@ The system has been thoroughly tested with:
 This system provides **general health information for educational purposes only** and is **NOT** a substitute for professional medical advice, diagnosis, or treatment.
 
 **Critical Points:**
-- ❌ Not a licensed medical professional
-- ❌ Not for actual medical diagnosis
-- ❌ Not for treatment decisions
+- Not a licensed medical professional
+- Not for actual medical diagnosis
+- Not for treatment decisions
 - Educational demonstration only
 - Always consult qualified healthcare providers
 - Call emergency services (911) for emergencies
@@ -531,7 +531,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ### Project Resources:
 - **GitHub Repository**: [asi-health-guardian-agent](https://github.com/Sachita92/asi-health-guardian-agent)
-- **Demo Video**: [Watch on YouTube](YOUR_VIDEO_LINK)
+- **Demo Video**: (https://www.loom.com/share/2a0943052fdf4fe28c88982d8ac97efe)
 - **Issues & Bug Reports**: [GitHub Issues](https://github.com/Sachita92/asi-health-guardian-agent/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/Sachita92/asi-health-guardian-agent/discussions)
 
